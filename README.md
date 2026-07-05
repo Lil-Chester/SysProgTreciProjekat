@@ -1,1 +1,2 @@
-"# SysProgTreciProjekat" 
+Zadatak 35:
+Koristeći Rx.NET, Akka.NET i TourneyRadar API, implementirati aplikaciju za prikaz esport turnira za zadatu igru. Rx vrši prikupljanje i osnovno mapiranje podataka o turnirima i emituje ih kao poruke aktorima. Aktori čuvaju podatke o turnirima kao interno stanje i grupišu turnire prema statusu (predstojeći, aktivni ili završeni). Web server prima HTTP GET zahteve i prevodi ih u poruke aktorima. Prikazati naziv turnira, vremenski period održavanja i status turnira. Dokumentacija dostupna na linku: https://github.com/AnayDhawan/tourneyradar-api
