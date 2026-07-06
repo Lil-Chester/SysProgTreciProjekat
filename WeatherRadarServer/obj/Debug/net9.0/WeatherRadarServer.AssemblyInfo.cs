@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeatherRadarServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74809ebe73251396646b7f9bd401b5bf016eaa29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d03c9582e1387c3cce7b5b01ddf5cd6972480a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeatherRadarServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeatherRadarServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
