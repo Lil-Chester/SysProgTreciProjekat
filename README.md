@@ -20,5 +20,5 @@ Dokumentacija dostupna na linku: https://open-meteo.com/en/docs
 
 
 
-Primer poziva serveru za Nis: http://localhost:8080/?lat=43.32\&lng=21.89\&start=2026-07-09\&end=2026-07-10
+Primer poziva serveru za Nis: [http://localhost:8080/?lat=43.32\&lng=21.89\&start=2026-07-09\&end=2026-07-10](http://localhost:8080/?lat=43.32&lng=21.89&start=2026-07-09&end=2026-07-10)
 
